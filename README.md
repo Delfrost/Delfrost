@@ -39,39 +39,39 @@ I am a final-year Computer Science Engineering student at Parul University with 
 
 ### 🛡️ [Real-Time Log Analyzer & Threat Detection](https://github.com/Delfrost)
 *A Network Security & AI Project*
-- [cite_start]Engineered a **Java-based backend** to collect and process network logs in real-time using the **ELK Stack**[cite: 35].
-- [cite_start]Implemented **Machine Learning models** to detect anomalies such as DDoS attacks, brute force attempts, and SQL injections[cite: 36, 86].
-- [cite_start]Visualized network threat patterns on dynamic dashboards in Kibana[cite: 37].
+- Engineered a **Java-based backend** to collect and process network logs in real-time using the **ELK Stack**.
+- Implemented **Machine Learning models** to detect anomalies such as DDoS attacks, brute force attempts, and SQL injections.
+- Visualized network threat patterns on dynamic dashboards in Kibana.
 
 ### 🎮 [The Job (Island Horror Game)](https://github.com/Delfrost)
 *A First-Person Survival Horror Game*
-- [cite_start]Developed in **Unity (C#)** featuring a dynamic flashlight system, stamina mechanics, and event-triggered jump scares[cite: 136].
-- [cite_start]Designed a comprehensive **Game Design Document (GDD)** and implemented AI-driven enemy behavior[cite: 135].
-- [cite_start]Focused on psychological tension and environmental storytelling[cite: 134].
+- Developed in **Unity (C#)** featuring a dynamic flashlight system, stamina mechanics, and event-triggered jump scares.
+- Designed a comprehensive **Game Design Document (GDD)** and implemented AI-driven enemy behavior.
+- Focused on psychological tension and environmental storytelling.
 
 ### 🎓 [Alumni Association Platform](https://github.com/RamChandra1528/Alumni-Project)
 *A Full-Stack Web Application*
-- [cite_start]Led backend development using **Java Spring Boot** to create secure RESTful APIs and user authentication[cite: 32, 83].
-- [cite_start]Designed data models for alumni profiles using **MongoDB** to facilitate mentorship and communication[cite: 30, 33].
+- Led backend development using **Java Spring Boot** to create secure RESTful APIs and user authentication.
+- Designed data models for alumni profiles using **MongoDB** to facilitate mentorship and communication.
 
 ### ⌨️ [TypeSlayer](https://github.com/Delfrost/TypeSlayer)
 *A Browser-Based Gamified Typing Tool*
-- [cite_start]Built a typing game to improve reflexes using **JavaScript** and the **Phaser** game engine[cite: 38, 90].
-- [cite_start]Handled backend scoring logic and API integration using **Node.js**[cite: 40, 144].
+- Built a typing game to improve reflexes using **JavaScript** and the **Phaser** game engine.
+- Handled backend scoring logic and API integration using **Node.js**.
 
 ### ♟️ [Chess3D](https://github.com/Delfrost/Chess3d)
 *A Python-Based Chess Engine*
-- [cite_start]Built a fully functional 2-player chess game with GUI using **Pygame**[cite: 138].
-- [cite_start]Implemented object-oriented game logic for move validation, check/checkmate detection, and state management[cite: 140, 141].
+- Built a fully functional 2-player chess game with GUI using **Pygame**.
+- Implemented object-oriented game logic for move validation, check/checkmate detection, and state management.
 
 ---
 
 ## 🏆 Honors & Certifications
-- [cite_start]**Finalist:** Smart India Hackathon (Institute Level) - Backend Development (Java)[cite: 51, 153].
-- [cite_start]**Event Coordinator:** Projections (Gujarat's Largest Tech Fest)[cite: 53, 155].
+- **Finalist:** Smart India Hackathon (Institute Level) - Backend Development (Java).
+- **Event Coordinator:** Projections (Gujarat's Largest Tech Fest).
 - **Certifications:**
-  - [cite_start]NPTEL Computer Networks & Protocols (OSI/TCP-IP)[cite: 48, 150].
-  - [cite_start]NPTEL Theory of Computation (Automata & Turing Machines)[cite: 49, 151].
+  - NPTEL Computer Networks & Protocols (OSI/TCP-IP).
+  - NPTEL Theory of Computation (Automata & Turing Machines).
 
 ---
 
