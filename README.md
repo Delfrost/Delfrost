@@ -76,8 +76,8 @@ I am a final-year Computer Science Engineering student at Parul University with 
 ---
 
 ### 📢 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/anant-vijay-893132269/))
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/anantvijay239))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/Delfrost/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anant-vijay-893132269/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anantvijay239)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Delfrost/)
 
 📫 **Email:** 2203031050035@paruluniversity.ac.in
